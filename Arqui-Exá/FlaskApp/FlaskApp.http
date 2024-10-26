@@ -1,0 +1,6 @@
+@FlaskApp_HostAddress = http://localhost:5002
+
+GET {{FlaskApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

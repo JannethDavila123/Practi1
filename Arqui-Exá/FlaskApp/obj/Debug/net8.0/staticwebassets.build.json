@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O/fHxcO1YzppnFxygDqDuBCkxsPbh+i59klfBCbmRQ4=",
+  "Source": "FlaskApp",
+  "BasePath": "_content/FlaskApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
